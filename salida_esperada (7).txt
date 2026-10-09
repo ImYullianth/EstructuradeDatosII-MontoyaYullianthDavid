@@ -1,0 +1,26 @@
+Raiz: Empresa
+
+=== JERARQUiA COMPLETA ===
+└── Empresa
+   └── Tecnologia
+      └── Desarrollo
+         └── Backend
+         └── Frontend
+      └── Infraestructura
+   └── Finanzas
+      └── Contabilidad
+      └── Tesorería
+   └── Recursos Humanos
+      └── Selección
+      └── Bienestar
+
+¿Tecnologia es hoja? false
+¿Backend es hoja? true
+Cantidad de hijos directos de Empresa: 3
+Total de nodos: 12
+Altura del arbol (niveles): 4
+Cantidad de hojas: 7
+
+=== VERSIÓN LINEAL (lista) ===
+[Empresa, Tecnologia, Desarrollo, Backend, Frontend, Infraestructura, Finanzas, Contabilidad, Tesorería, Recursos Humanos, Selección, Bienestar]
+En la lista no se ve que Backend pertenece a Desarrollo, ni que este pertenece a Tecnologia.

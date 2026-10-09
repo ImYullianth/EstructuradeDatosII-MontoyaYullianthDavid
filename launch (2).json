@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Ejecutar Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "vmArgs": "-Dfile.encoding=UTF-8 -Dstdout.encoding=UTF-8",
+            "console": "integratedTerminal"
+        }
+    ]
+}
